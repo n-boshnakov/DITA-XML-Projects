@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Settings</title>
+    <topicref href="changing_the_save_location.dita"/>
+    <topicref href="remapping_print_screen_button.dita"/>
+    <topicref href="changing_the_flattening_on_paste_option.dita" audience="general_user"/>
+</map>
