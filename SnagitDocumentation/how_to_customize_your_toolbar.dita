@@ -2,14 +2,32 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="how_to_customize_your_toolbar">
     <title>Customizing your Toolbar</title>
-    <shortdesc></shortdesc>
+    <shortdesc>You can swap out and reorder the tools in your toolbar.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <prereq id="prereq_qwx_grm_5pb">
+            <p>You have installed Snagit on your computer.</p>
+        </prereq>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Open Snagit Editor.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <menucascade>
+                        <uicontrol>More</uicontrol>
+                        <uicontrol>Customize Toolbar</uicontrol>
+                    </menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Right click on the tool you want to add to the toolbar.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Add to toolbar</uicontrol>.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Drag and drop your tools to reorder them.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Done</uicontrol> when finished.</cmd>
             </step>
         </steps>
     </taskbody>

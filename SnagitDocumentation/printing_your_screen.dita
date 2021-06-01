@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="remapping_print_screen_button">
-    <title>Remapping your Print Screen Button</title>
-    <shortdesc>You can change the button used for printing your screen.</shortdesc>
+<task id="how_to_remap_your_print_screen_button">
+    <title>Printing your Screen</title>
+    <shortdesc>You can capture your screen with Snagit.</shortdesc>
     <taskbody>
         <prereq id="prereq_xpb_frm_5pb">
             <p>You have installed Snagit on your computer.</p>
@@ -12,13 +12,14 @@
                 <cmd>Open Snagit.</cmd>
             </step>
             <step>
-                <cmd>Choose <uicontrol>Add Hotkey</uicontrol>.</cmd>
+                <cmd>Select <uicontrol>Capture</uicontrol>.</cmd>
             </step>
             <step>
-                <cmd>Press the key you want to map.</cmd>
+                <cmd>Drag and drop in order to select the area you want to capture.</cmd>
             </step>
             <step>
-                <cmd>Close Snagit.</cmd>
+                <cmd importance="optional">Select <uicontrol>Fullscreen</uicontrol> to capture your
+                    whole screen.</cmd>
             </step>
         </steps>
     </taskbody>

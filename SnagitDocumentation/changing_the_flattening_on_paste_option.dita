@@ -2,14 +2,23 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="changing_the_flattening_on_paste_option">
     <title>Changing the Flattening on Paste Option</title>
-    <shortdesc></shortdesc>
+    <shortdesc>You can modify the way pasting an element behaves in Snagit.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <prereq id="prereq_xpb_frm_5pb">
+            <p>You have installed Snagit on your computer.</p>
+        </prereq>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Navigate to <menucascade>
+                        <uicontrol>Edit</uicontrol>
+                        <uicontrol>Editor Preferences...</uicontrol>
+                    </menucascade><uicontrol>Advanced</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Choose <uicontrol>Automatically flatten pasted images</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Choose <uicontrol>OK</uicontrol>.</cmd>
             </step>
         </steps>
     </taskbody>

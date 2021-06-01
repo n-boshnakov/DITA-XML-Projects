@@ -2,14 +2,31 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="simplifying_an_image">
     <title>Simplifying your Screenshot</title>
-    <shortdesc></shortdesc>
+    <shortdesc>You can make a screenshot more readable and easier to follow by simplifying
+        it.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
-        <steps>
+        <prereq id="prereq_qrb_bvm_5pb">
+            <p>You have completed <xref href="printing_your_screen.dita"/>.</p>
+        </prereq>
+        <steps id="steps_kyd_5vm_5pb">
             <step>
-                <cmd></cmd>
+                <cmd>Select <uicontrol>Simplify</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the color pallete.</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>On</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Modify the auto generated simplified UI.</cmd>
+                <info>
+                    <note type="note" id="note_qtq_jym_5pb">If you are following a style guide,
+                        match the simplified UI to it.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Save your file.</cmd>
             </step>
         </steps>
     </taskbody>

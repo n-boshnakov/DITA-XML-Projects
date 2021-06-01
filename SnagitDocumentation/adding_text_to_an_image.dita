@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="adding_text_to_an_image">
-    <title>Adding Text to an Image</title>
-    <shortdesc></shortdesc>
+    <title>Adding Text to a Screenshot</title>
+    <shortdesc>You can add information to a captured image by writing on it. </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <prereq id="prereq_ids_swm_5pb">
+            <p>You have completed <xref href="printing_your_screen.dita"/>.</p>
+        </prereq>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Select <uicontrol>Text</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Drag and drop a text box on your screenshot.</cmd>
+            </step>
+            <step>
+                <cmd importance="optional">Modify the text style.</cmd>
+                <info>
+                    <ul id="ul_x2c_gwm_5pb">
+                        <li>Change the font.</li>
+                        <li>Change the font size.</li>
+                        <li>Change the font fill.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Write the text.</cmd>
+            </step>
+            <step>
+                <cmd>Save your file.</cmd>
             </step>
         </steps>
     </taskbody>

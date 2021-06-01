@@ -3,5 +3,93 @@
 <reference id="editor_options">
     <title>Editor Options</title>
     <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_s4h_454_5pb">
+            <title>Tools</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Name</entry>
+                        <entry>Image</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Arrow</entry>
+                        <entry/>
+                        <entry>Creates an arrow.</entry>
+                    </row>
+                    <row>
+                        <entry>Text</entry>
+                        <entry/>
+                        <entry>Creates a textbox.</entry>
+                    </row>
+                    <row>
+                        <entry>Shape</entry>
+                        <entry/>
+                        <entry>Creates a shape.</entry>
+                    </row>
+                    <row>
+                        <entry>Fill</entry>
+                        <entry/>
+                        <entry>Fills an area with color.</entry>
+                    </row>
+                    <row>
+                        <entry>Move</entry>
+                        <entry/>
+                        <entry>Moves elements.</entry>
+                    </row>
+                    <row>
+                        <entry>Selection</entry>
+                        <entry/>
+                        <entry>Selects elements.</entry>
+                    </row>
+                    <row audience="technical_writer">
+                        <entry>Simplify</entry>
+                        <entry/>
+                        <entry>Simplifies the UI.</entry>
+                    </row>
+                    <row>
+                        <entry>Step</entry>
+                        <entry/>
+                        <entry>Adds steps.</entry>
+                    </row>
+                    <row>
+                        <entry>Blur</entry>
+                        <entry/>
+                        <entry>Blurs parts of the image.</entry>
+                    </row>
+                    <row>
+                        <entry>Magic Wand</entry>
+                        <entry/>
+                        <entry>Cuts elements.</entry>
+                    </row>
+                    <row>
+                        <entry>Crop</entry>
+                        <entry/>
+                        <entry>Cuts part of the image.</entry>
+                    </row>
+                    <row>
+                        <entry>Eraser</entry>
+                        <entry/>
+                        <entry>Erases parts of the image.</entry>
+                    </row>
+                    <row>
+                        <entry>Callout</entry>
+                        <entry/>
+                        <entry>Creates an annotation.</entry>
+                    </row>
+                    <row>
+                        <entry>Stamp</entry>
+                        <entry/>
+                        <entry>Stamps the image.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
 </reference>

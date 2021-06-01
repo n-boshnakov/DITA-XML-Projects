@@ -2,14 +2,33 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="changing_the_save_location">
     <title>Changing the Save Location</title>
-    <shortdesc></shortdesc>
+    <shortdesc>You can save your files to a different location on your machine.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <prereq id="prereq_xpb_frm_5pb">
+            <p>You have installed Snagit on your computer.</p>
+        </prereq>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Open Snagit Editor.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <menucascade>
+                        <uicontrol>Edit</uicontrol>
+                        <uicontrol>Editor Preferences...</uicontrol>
+                        <uicontrol>Library</uicontrol>
+                    </menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Select the folder icon.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to your new save location.</cmd>
+            </step>
+            <step>
+                <cmd>Choose <uicontrol>Select Folder</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Choose <uicontrol>OK</uicontrol>.</cmd>
             </step>
         </steps>
     </taskbody>

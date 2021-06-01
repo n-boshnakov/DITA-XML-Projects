@@ -3,6 +3,6 @@
 <map>
     <title>GeneralInformation</title>
     <topicref href="what_is_snagit.dita"/>
-    <topicref href="how_to_remap_your_print_screen_button.dita"/>
+    <topicref href="printing_your_screen.dita"/>
     <topicref href="how_to_customize_your_toolbar.dita"/>
 </map>

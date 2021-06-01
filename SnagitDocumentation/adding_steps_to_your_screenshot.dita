@@ -2,14 +2,31 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="adding_steps_to_your_screenshot">
     <title>Adding Steps to your Screenshot</title>
-    <shortdesc></shortdesc>
+    <shortdesc>You can guide a user through a set of instructions by adding steps to your
+        screenshot.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <prereq id="prereq_qrb_bvm_5pb">
+            <p>You have completed <xref href="printing_your_screen.dita"/>.</p>
+        </prereq>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Select <uicontrol>Step</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd importance="optional">Modify the step style.</cmd>
+                <info>
+                    <ul id="ul_x2c_gwm_5pb">
+                        <li>Change the color.</li>
+                        <li>Change the shape.</li>
+                        <li>Change the type.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on the screenshot to place your steps.</cmd>
+            </step>
+            <step>
+                <cmd>Save your file.</cmd>
             </step>
         </steps>
     </taskbody>
