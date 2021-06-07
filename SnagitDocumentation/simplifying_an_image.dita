@@ -5,21 +5,38 @@
     <shortdesc>You can make a screenshot more readable and easier to follow by simplifying
         it.</shortdesc>
     <taskbody>
-        <prereq id="prereq_qrb_bvm_5pb">
-            <p>You have completed <xref href="printing_your_screen.dita"/>.</p>
-        </prereq>
+        <prereq
+            conref="adding_text_to_an_image.dita#adding_text_to_an_image/prereq_completed_print_screen"
+            id="prereq_ppc_wvy_vpb"/>
+        <context id="context_h5c_wyx_vpb">
+            <p>As a technical writer, providing screenshots that do not distract your users with
+                excess information is important. This can be done by using the
+                    <uicontrol>Simplify</uicontrol> tool. It can instantly hide UI elements and text
+                or allow you to create a customized simplified UI by placing a variety of shapes on
+                top of your image.</p>
+            <p>Another use for a simplified UI is that such a screenshot does not need to be
+                replaced when minor changes are done to the application.</p>
+        </context>
         <steps id="steps_kyd_5vm_5pb">
             <step>
-                <cmd>Select <uicontrol>Simplify</uicontrol>.</cmd>
+                <cmd>Select <uicontrol>Simplify</uicontrol>.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Toolbar%20-%20Simplify.png"
+                        id="image_kys_gzx_vpb"/></cmd>
             </step>
             <step>
-                <cmd>Choose the color pallete.</cmd>
+                <cmd>Choose the color pallete.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Simplify%20-%20Pallete.png"
+                        id="image_mn1_wzx_vpb"/></cmd>
             </step>
             <step>
-                <cmd>Select <uicontrol>On</uicontrol>.</cmd>
+                <cmd>Select <uicontrol>On</uicontrol>.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Simplify%20-%20SelectOn.png"
+                        id="image_bp1_xzx_vpb"/></cmd>
             </step>
             <step>
-                <cmd>Modify the auto generated simplified UI.</cmd>
+                <cmd>Modify the auto generated simplified UI.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Simplified%20-%20Auto.jpg"
+                        id="image_jwt_1by_vpb"/></cmd>
                 <info>
                     <note type="note" id="note_qtq_jym_5pb">If you are following a style guide,
                         match the simplified UI to it.</note>
@@ -29,5 +46,24 @@
                 <cmd>Save your file.</cmd>
             </step>
         </steps>
+        <result id="result_vsg_wyx_vpb">After completing these steps you will have a screenshot with
+            a simplified UI.</result>
+        <example id="example_fgv_cby_vpb">
+            <ol id="ol_ymc_2by_vpb">
+                <li>Select <uicontrol>Simplify</uicontrol>.</li>
+                <li>Choose the <uicontrol>Light Grayscale</uicontrol> color palette.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Simplify%20-%20Select%20Palette.png"
+                        id="image_btf_gby_vpb"/></li>
+                <li>Select <uicontrol>On</uicontrol>.</li>
+                <li>Modify the auto generated simplified UI.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/AutoGen.png"
+                        id="image_g1l_1cy_vpb"/><note id="note_wdc_tby_vpb"><p>Try to go for
+                            consistency in colors and shapes. Leave only the information you want to
+                            convey uncovered.</p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Simplify%20-%20PropertiesModified.png"
+                            id="image_nhf_tby_vpb"/></note></li>
+                <li>Save your file.</li>
+            </ol>
+        </example>
     </taskbody>
 </task>

@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="editor_options">
     <title>Editor Options</title>
-    <shortdesc></shortdesc>
+    <shortdesc>You can use a multitude of tools in Snagit for a variety of tasks.</shortdesc>
     <refbody>
         <table frame="all" rowsep="1" colsep="1" id="table_s4h_454_5pb">
             <title>Tools</title>
@@ -20,72 +20,100 @@
                 <tbody>
                     <row>
                         <entry>Arrow</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Arrow.jpg"
+                                id="image_k5t_j3y_vpb"/></entry>
                         <entry>Creates an arrow.</entry>
                     </row>
                     <row>
                         <entry>Text</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Text.jpg"
+                                id="image_bng_k3y_vpb"/></entry>
                         <entry>Creates a textbox.</entry>
                     </row>
                     <row>
                         <entry>Shape</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Shape.jpg"
+                                id="image_ats_k3y_vpb"/></entry>
                         <entry>Creates a shape.</entry>
                     </row>
                     <row>
                         <entry>Fill</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Fill.jpg"
+                                id="image_ztd_l3y_vpb"/></entry>
                         <entry>Fills an area with color.</entry>
                     </row>
                     <row>
                         <entry>Move</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Move.jpg"
+                                id="image_nrq_l3y_vpb"/></entry>
                         <entry>Moves elements.</entry>
                     </row>
                     <row>
                         <entry>Selection</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Selection.jpg"
+                                id="image_h4d_m3y_vpb"/></entry>
                         <entry>Selects elements.</entry>
                     </row>
                     <row audience="technical_writer">
                         <entry>Simplify</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Simplify.jpg"
+                                id="image_kd4_m3y_vpb"/></entry>
                         <entry>Simplifies the UI.</entry>
                     </row>
                     <row>
                         <entry>Step</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Step.jpg"
+                                id="image_gvx_m3y_vpb"/></entry>
                         <entry>Adds steps.</entry>
                     </row>
                     <row>
                         <entry>Blur</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Blur.jpg"
+                                id="image_ozk_n3y_vpb"/></entry>
                         <entry>Blurs parts of the image.</entry>
                     </row>
                     <row>
                         <entry>Magic Wand</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/MWand.jpg"
+                                id="image_hk5_n3y_vpb"/></entry>
                         <entry>Cuts elements.</entry>
                     </row>
                     <row>
                         <entry>Crop</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Crop.jpg"
+                                id="image_bfd_43y_vpb"/></entry>
                         <entry>Cuts part of the image.</entry>
                     </row>
                     <row>
                         <entry>Eraser</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Eraser.jpg"
+                                id="image_umm_43y_vpb"/></entry>
                         <entry>Erases parts of the image.</entry>
                     </row>
                     <row>
                         <entry>Callout</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Callout.jpg"
+                                id="image_isd_p3y_vpb"/></entry>
                         <entry>Creates an annotation.</entry>
                     </row>
                     <row>
                         <entry>Stamp</entry>
-                        <entry/>
+                        <entry><image
+                                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Tools/Stamp.jpg"
+                                id="image_ibm_p3y_vpb"/></entry>
                         <entry>Stamps the image.</entry>
                     </row>
                 </tbody>

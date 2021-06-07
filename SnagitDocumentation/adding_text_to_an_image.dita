@@ -4,25 +4,32 @@
     <title>Adding Text to a Screenshot</title>
     <shortdesc>You can add information to a captured image by writing on it. </shortdesc>
     <taskbody>
-        <prereq id="prereq_ids_swm_5pb">
+        <prereq id="prereq_completed_print_screen">
             <p>You have completed <xref href="printing_your_screen.dita"/>.</p>
         </prereq>
+        <context id="context_my2_jwx_vpb">
+            <p>You can add text to your screenshot by using the <uicontrol>Text</uicontrol> tool.
+                This allows you to create titles, subtitles, lists and various other texts
+                elements.</p>
+        </context>
         <steps>
             <step>
-                <cmd>Select <uicontrol>Text</uicontrol>.</cmd>
+                <cmd>Select <uicontrol>Text</uicontrol>.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Toolbar%20-%20Text.png"
+                        id="image_tmz_4xx_vpb"/></cmd>
             </step>
             <step>
                 <cmd>Drag and drop a text box on your screenshot.</cmd>
             </step>
             <step>
                 <cmd importance="optional">Modify the text style.</cmd>
-                <info>
-                    <ul id="ul_x2c_gwm_5pb">
+                <info><ul id="ul_x2c_gwm_5pb">
                         <li>Change the font.</li>
                         <li>Change the font size.</li>
                         <li>Change the font fill.</li>
-                    </ul>
-                </info>
+                    </ul><image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Text%20Properties%20-%20Clean%20SUI.png"
+                        id="image_fgz_5yx_vpb"/></info>
             </step>
             <step>
                 <cmd>Write the text.</cmd>
@@ -31,5 +38,24 @@
                 <cmd>Save your file.</cmd>
             </step>
         </steps>
+        <result id="result_zlp_jwx_vpb">After completing these steps you will have a text placed on
+            your screenshot.</result>
+        <example id="example_ub3_zxx_vpb">
+            <ol id="ol_xgt_zxx_vpb">
+                <li>Selecte <uicontrol>Text</uicontrol>.</li>
+                <li>Drag and drop a text box on your screenshot.</li>
+                <li>Modify the text style:<ol id="ol_uvn_byx_vpb">
+                        <li>Change the font to Cambria.</li>
+                        <li>Change the font size to 24.</li>
+                        <li>Change to font fill to blue.</li>
+                    </ol><image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Text%20Properties%20-%20SUI.png"
+                        id="image_ldg_4yx_vpb"/></li>
+                <li>Enter <userinput>Demo text</userinput>.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/demoText.jpg"
+                        id="image_xkc_pyx_vpb"/></li>
+                <li>Save your file.</li>
+            </ol>
+        </example>
     </taskbody>
 </task>

@@ -1,26 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="how_to_remap_your_print_screen_button">
+<task id="printing_your_screen">
     <title>Printing your Screen</title>
     <shortdesc>You can capture your screen with Snagit.</shortdesc>
     <taskbody>
-        <prereq id="prereq_xpb_frm_5pb">
-            <p>You have installed Snagit on your computer.</p>
-        </prereq>
+        <prereq
+            conref="how_to_customize_your_toolbar.dita#how_to_customize_your_toolbar/prereq_installed"
+            id="prereq_yp5_svy_vpb"/>
+        <context id="context_zjh_145_vpb">
+            <p>Printing your screen is a basic, yet important function. It allows you to save
+                information for later or capture a frame from a video. Snagit provides a way to take
+                screenshots, which can then be saved or edited in Snagit Editor.</p>
+        </context>
         <steps>
             <step>
                 <cmd>Open Snagit.</cmd>
             </step>
             <step>
-                <cmd>Select <uicontrol>Capture</uicontrol>.</cmd>
+                <cmd>Navigate to <uicontrol>Image</uicontrol>.</cmd>
             </step>
             <step>
-                <cmd>Drag and drop in order to select the area you want to capture.</cmd>
+                <cmd>Select <uicontrol>Capture</uicontrol>.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/SnagitScreenshot.png"
+                        id="image_nsr_4rx_vpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Drag and drop in order to select the area you want to capture.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/screenshot.png"
+                        id="image_lsp_lsx_vpb"/></cmd>
             </step>
             <step>
                 <cmd importance="optional">Select <uicontrol>Fullscreen</uicontrol> to capture your
                     whole screen.</cmd>
             </step>
         </steps>
+        <result id="result_ux2_b45_vpb"><p>After completing the steps the captured screenshot will
+                open in Snagit Editor, where you will be able to edit and save it.</p><image
+                href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Screenshot-screenshot.jpg"
+                id="image_pyp_tsx_vpb"/></result>
     </taskbody>
 </task>

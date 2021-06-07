@@ -4,22 +4,43 @@
     <title>Changing the Flattening on Paste Option</title>
     <shortdesc>You can modify the way pasting an element behaves in Snagit.</shortdesc>
     <taskbody>
-        <prereq id="prereq_xpb_frm_5pb">
-            <p>You have installed Snagit on your computer.</p>
-        </prereq>
+        <prereq
+            conref="how_to_customize_your_toolbar.dita#how_to_customize_your_toolbar/prereq_installed"
+            id="prereq_brz_yvy_vpb"/>
+        <context id="context_gk4_zmy_vpb">
+            <p>When you paste an image in Snagit, by default it places it on the file, but allows
+                you to modify it. This grants you a greater degree of control over your screenshot.
+                If you want to have an image be immediately flattened when pasted, you can do so by
+                chaging the options for it. </p>
+            <p>By repeating these steps, you can revert to your previous selection.</p>
+        </context>
         <steps>
+            <step>
+                <cmd>Open Snagit Editor.</cmd>
+            </step>
             <step>
                 <cmd>Navigate to <menucascade>
                         <uicontrol>Edit</uicontrol>
                         <uicontrol>Editor Preferences...</uicontrol>
-                    </menucascade><uicontrol>Advanced</uicontrol>.</cmd>
+                    </menucascade>.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditorPref.png"
+                        id="image_bc3_mky_vpb"/></cmd>
             </step>
             <step>
-                <cmd>Choose <uicontrol>Automatically flatten pasted images</uicontrol>.</cmd>
+                <cmd>Navigate to <uicontrol>Advanced</uicontrol>.</cmd>
             </step>
             <step>
-                <cmd>Choose <uicontrol>OK</uicontrol>.</cmd>
+                <cmd>Choose <uicontrol>Automatically flatten pasted images</uicontrol>.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditAdvanced-PasteNo.png"
+                        id="image_h1y_lmy_vpb"/></cmd>
+            </step>
+            <step>
+                <cmd>Choose <uicontrol>OK</uicontrol>.<image
+                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditAdvanced-PasteYes.png"
+                        id="image_u3r_smy_vpb"/></cmd>
             </step>
         </steps>
+        <result id="result_tnl_5my_vpb">After completing these steps you will have changed your
+            current pasting settings.</result>
     </taskbody>
 </task>

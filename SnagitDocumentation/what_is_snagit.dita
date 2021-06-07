@@ -2,15 +2,22 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="what_is_snagit">
     <title>What is Snagit?</title>
-    <shortdesc>With Snagit you can capture your screen and edit the result.</shortdesc>
+    <shortdesc>With Snagit you can capture your screen and edit the resulting
+        screenshot.</shortdesc>
     <conbody>
-        <p>Snagit is an image editing software that allows you to take screenshots and edit images.
-            It provides a variety of tools such as <uicontrol>Text</uicontrol>,
-                <uicontrol>Cut</uicontrol>, <uicontrol>Shape</uicontrol>
-            <ph audience="general_user">and <uicontrol>Crop</uicontrol>.</ph><ph
-                audience="technical_writer">, <uicontrol>Crop</uicontrol> and
-                    <uicontrol>Simplify</uicontrol>.</ph></p>
-        <p audience="technical_writer">You can simplify the UI of the screenshot or blur parts of it
-            that need to remain confidential. </p>
+        <section id="section_fys_zyy_vpb">
+            <title>Overview</title>
+            <p>Snagit is an image editing software that allows you to take screenshots and edit
+                images. It provides a variety of tools such as <uicontrol>Text</uicontrol>,
+                    <uicontrol>Cut</uicontrol>, <uicontrol>Shape</uicontrol>
+                <ph audience="general_user">and <uicontrol>Crop</uicontrol>.</ph><ph
+                    audience="technical_writer">, <uicontrol>Crop</uicontrol> and
+                        <uicontrol>Simplify</uicontrol>.</ph></p>
+            <p audience="technical_writer">You can simplify the UI of the screenshot or blur parts
+                of it that need to remain confidential. </p>
+        </section>
     </conbody>
+    <related-links>
+        <link href="editor_options.dita"/>
+    </related-links>
 </concept>
