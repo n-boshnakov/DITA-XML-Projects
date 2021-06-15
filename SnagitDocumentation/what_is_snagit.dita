@@ -26,6 +26,45 @@
                 the tool for you!</p>
             <p audience="technical_writer">If you are a technical writer in need of a powerful tool
                 to create screenshots for your documentation with, then Snagit is for you!</p>
+            <p>
+                <imagemap id="imagemap_y3b_j1m_ypb">
+                    <image href="../../../Desktop/Snagit%20Screenshots/SnagitImageMap.jpg"
+                        id="image_fcp_31m_ypb"/>
+                    <area>
+                        <shape>rect</shape>
+                        <coords>24, 228, 573, 375</coords>
+                        <xref href="printing_your_screen.dita" format="dita">Printing your
+                            Screen</xref>
+                    </area>
+                    <area>
+                        <shape>rect</shape>
+                        <coords>24, 387, 573, 535</coords>
+                        <xref href="customizing_your_toolbar.dita" format="dita">Customizing your
+                            Toolbar</xref>
+                    </area>
+                    <area>
+                        <shape>rect</shape>
+                        <coords>25, 553, 572, 679</coords>
+                        <xref href="changing_the_save_location.dita" format="dita">Changing the Save
+                            Location</xref>
+                    </area>
+                    <area>
+                        <shape>rect</shape>
+                        <coords>25, 691, 569, 815</coords>
+                        <xref href="remapping_your_print_screen_button.dita" format="dita">Remapping
+                            your Print Screen Button</xref>
+                    </area>
+                    <area>
+                        <shape>rect</shape>
+                        <coords>266, 104, 328, 164</coords>
+                        <xref href="https://www.techsmith.com/screen-capture.html" format="html"
+                            scope="external">Snagit Web Link</xref>
+                    </area>
+                </imagemap>
+            </p>
         </section>
     </conbody>
+    <related-links>
+        <link href="editor_options.dita"/>
+    </related-links>
 </concept>
