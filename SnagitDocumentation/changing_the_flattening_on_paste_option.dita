@@ -4,9 +4,8 @@
     <title>Changing the Flattening on Paste Option</title>
     <shortdesc>You can modify the way pasting an element behaves in Snagit.</shortdesc>
     <taskbody>
-        <prereq
-            conref="how_to_customize_your_toolbar.dita#how_to_customize_your_toolbar/prereq_installed"
-            id="prereq_brz_yvy_vpb"/>
+        <prereq conref="printing_your_screen.dita#printing_your_screen/prereq_installed"
+            id="prereq_byv_4yk_ypb"/>
         <context id="context_gk4_zmy_vpb">
             <p>When you paste an image in Snagit, by default it places it on the file, but allows
                 you to modify it. This grants you a greater degree of control over your screenshot.
@@ -14,7 +13,7 @@
                 chaging the options for it. </p>
             <p>By repeating these steps, you can revert to your previous selection.</p>
         </context>
-        <steps>
+        <steps id="steps_fc3_4yk_ypb">
             <step>
                 <cmd>Open Snagit Editor.</cmd>
             </step>
@@ -22,22 +21,31 @@
                 <cmd>Navigate to <menucascade>
                         <uicontrol>Edit</uicontrol>
                         <uicontrol>Editor Preferences...</uicontrol>
-                    </menucascade>.<image
-                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditorPref.png"
-                        id="image_bc3_mky_vpb"/></cmd>
+                    </menucascade>.</cmd>
+                <info>
+                    <p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditorPref.png"
+                            id="image_bc3_mky_vpb"/></p>
+                </info>
             </step>
             <step>
                 <cmd>Navigate to <uicontrol>Advanced</uicontrol>.</cmd>
             </step>
             <step>
-                <cmd>Choose <uicontrol>Automatically flatten pasted images</uicontrol>.<image
-                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditAdvanced-PasteNo.png"
-                        id="image_h1y_lmy_vpb"/></cmd>
+                <cmd>Choose <uicontrol>Automatically flatten pasted images</uicontrol>.</cmd>
+                <info>
+                    <p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditAdvanced-PasteNo.png"
+                            id="image_h1y_lmy_vpb"/></p>
+                </info>
             </step>
             <step>
-                <cmd>Choose <uicontrol>OK</uicontrol>.<image
-                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditAdvanced-PasteYes.png"
-                        id="image_u3r_smy_vpb"/></cmd>
+                <cmd>Choose <uicontrol>OK</uicontrol>.</cmd>
+                <info>
+                    <p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditAdvanced-PasteYes.png"
+                            id="image_u3r_smy_vpb"/></p>
+                </info>
             </step>
         </steps>
         <result id="result_tnl_5my_vpb">After completing these steps you will have changed your

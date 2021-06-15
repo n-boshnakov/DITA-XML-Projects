@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Snagit Documentation</title>
+    <topicref href="what_is_snagit.dita"/>
+    <topicref href="printing_your_screen.dita"/>
+    <topicref href="customizing_your_toolbar.dita"/>
+    <topicref href="adding_text_to_a_screenshot.dita"/>
+    <topicref href="simplifiying_your_screenshot.dita" audience="technical_writer"/>
+    <topicref href="adding_steps_to_your_sreenshot.dita" audience="technical_writer"/>
+    <topicref href="editor_options.dita"/>
+    <topicref href="changing_the_save_location.dita"/>
+    <topicref href="remapping_your_print_screen_button.dita"/>
+    <topicref href="changing_the_flattening_on_paste_option.dita" audience="general_user"/>
+</map>

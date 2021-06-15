@@ -8,16 +8,24 @@
         <section id="section_fys_zyy_vpb">
             <title>Overview</title>
             <p>Snagit is an image editing software that allows you to take screenshots and edit
-                images. It provides a variety of tools such as <uicontrol>Text</uicontrol>,
-                    <uicontrol>Cut</uicontrol>, <uicontrol>Shape</uicontrol>
-                <ph audience="general_user">and <uicontrol>Crop</uicontrol>.</ph><ph
-                    audience="technical_writer">, <uicontrol>Crop</uicontrol> and
-                        <uicontrol>Simplify</uicontrol>.</ph></p>
-            <p audience="technical_writer">You can simplify the UI of the screenshot or blur parts
-                of it that need to remain confidential. </p>
+                images. It allows you to quickly communicate your ideas or instructions in visual
+                form. Snagit offers you mutliple ways in which you can modify images, including: </p>
+            <ul id="ul_wwc_wrk_ypb">
+                <li>cropping them</li>
+                <li>placing text on them</li>
+                <li>placing steps on them</li>
+                <li>adding shapes to them</li>
+                <li audience="technical_writer">simplifying them</li>
+            </ul>
+            <p><image href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/icon.png"
+                    id="image_i4l_gsk_ypb"/></p>
+        </section>
+        <section id="section_mkp_rtk_ypb">
+            <title>Right Tool for the Job</title>
+            <p audience="general_user">If you need a powerful image editing software, then Snagit is
+                the tool for you!</p>
+            <p audience="technical_writer">If you are a technical writer in need of a powerful tool
+                to create screenshots for your documentation with, then Snagit is for you!</p>
         </section>
     </conbody>
-    <related-links>
-        <link href="editor_options.dita"/>
-    </related-links>
 </concept>

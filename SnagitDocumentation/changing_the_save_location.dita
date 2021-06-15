@@ -4,15 +4,14 @@
     <title>Changing the Save Location</title>
     <shortdesc>You can save your files to a different location on your machine.</shortdesc>
     <taskbody>
-        <prereq
-            conref="how_to_customize_your_toolbar.dita#how_to_customize_your_toolbar/prereq_installed"
-            id="prereq_gmf_yvy_vpb"/>
+        <prereq conref="printing_your_screen.dita#printing_your_screen/prereq_installed"
+            id="prereq_hl4_jyk_ypb"/>
         <context id="context_hf1_53y_vpb">Snagit saves your files to a certain location on your hard
             drive. By default it is
                 <filepath>C:\Users\&lt;username>\AppData\Local\TechSmith\SnagIt\DataStore\</filepath>.
             By changing this location you can have Snagit save your files to another
             place.</context>
-        <steps>
+        <steps id="steps_ltx_gyk_ypb">
             <step>
                 <cmd>Open Snagit Editor.</cmd>
             </step>
@@ -20,30 +19,41 @@
                 <cmd>Navigate to <menucascade>
                         <uicontrol>Edit</uicontrol>
                         <uicontrol>Editor Preferences...</uicontrol>
-                    </menucascade>.<image
-                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditorPref.png"
-                        id="image_bc3_mky_vpb"/></cmd>
+                    </menucascade>.</cmd>
+                <info>
+                    <p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditorPref.png"
+                            id="image_bc3_mky_vpb"/></p>
+                </info>
             </step>
             <step>
                 <cmd>Navigate to <uicontrol>Library</uicontrol>.</cmd>
             </step>
             <step>
-                <cmd>Select the folder icon.<image
-                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditLibrary-Folder.png"
-                        id="image_u3v_f4y_vpb"/></cmd>
+                <cmd>Select the folder icon.</cmd>
+                <info>
+                    <p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditLibrary-Folder.png"
+                            id="image_u3v_f4y_vpb"/></p>
+                </info>
             </step>
             <step>
                 <cmd>Navigate to your new save location.</cmd>
             </step>
             <step>
-                <cmd>Choose <uicontrol>Select Folder</uicontrol>.<image
-                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Choose.jpg"
-                        id="image_oth_54y_vpb"/></cmd>
+                <cmd>Choose <uicontrol>Select Folder</uicontrol>.</cmd>
+                <info>
+                    <p><image href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Choose.jpg"
+                            id="image_oth_54y_vpb"/></p>
+                </info>
             </step>
             <step>
-                <cmd>Choose <uicontrol>OK</uicontrol>.<image
-                        href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditLibrary-OK.png"
-                        id="image_fxp_g4y_vpb"/></cmd>
+                <cmd>Choose <uicontrol>OK</uicontrol>.</cmd>
+                <info>
+                    <p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/EditLibrary-OK.png"
+                            id="image_fxp_g4y_vpb"/></p>
+                </info>
             </step>
         </steps>
         <result id="result_y4h_53y_vpb">After completing these steps you will have successfully

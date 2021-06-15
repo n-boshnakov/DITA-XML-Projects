@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_steps_to_your_sreenshot">
+    <title>Adding Steps to your Sreenshot</title>
+    <shortdesc>You can guide a user through a set of instructions by adding steps to your
+        screenshot.</shortdesc>
+    <taskbody>
+        <prereq
+            conref="adding_text_to_a_screenshot.dita#adding_text_to_a_screenshot/prereq_completed_print_screen"
+            id="prereq_gc3_xxk_ypb"/>
+        <context id="context_ahp_fcy_vpb">
+            <p>As a technical writer, adding steps to your screenshot can help guide your user
+                through your documentation. This can be accomplished by using the
+                    <uicontrol>Steps</uicontrol> tool.</p>
+            <p>In addition, it is possible to change the type, color and shape of the steps.</p>
+        </context>
+        <steps id="steps_gj4_wxk_ypb">
+            <step>
+                <cmd>Select <uicontrol>Step</uicontrol>.</cmd>
+                <info>
+                    <p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Toolbar%20-%20Steps.png"
+                            id="image_jfh_4cy_vpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd importance="optional">Modify the step style.</cmd>
+                <info>
+                    <ul id="ul_x2c_gwm_5pb">
+                        <li>Change the color.</li>
+                        <li>Change the shape.</li>
+                        <li>Change the type.</li>
+                    </ul>
+                </info>
+                <info>
+                    <p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/Steps%20Properties%20-%20Empty.png"
+                            id="image_zvv_ycy_vpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on the screenshot to place your steps.</cmd>
+                <info>
+                    <p><image
+                            href="file:/C:/Users/n_bos/Desktop/Snagit%20Screenshots/StepsPlace.jpg"
+                            id="image_ekc_cdy_vpb"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>Save your file.</cmd>
+            </step>
+        </steps>
+        <result id="result_my5_fcy_vpb">After completing these steps you will have steps placed on
+            your screenshot.</result>
+    </taskbody>
+</task>
