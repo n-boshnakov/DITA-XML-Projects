@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
-    <title>Tasks</title>
-    <topicref href="adding_text_to_an_image.dita"/>
-    <topicref href="simplifying_an_image.dita" audience="technical_writer"/>
-    <topicref href="adding_steps_to_your_screenshot.dita" audience="technical_writer"/>
-    <topicref href="editor_options.dita"/>
-</map>
