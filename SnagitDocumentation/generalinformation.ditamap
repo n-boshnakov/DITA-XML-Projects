@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
-    <title>GeneralInformation</title>
-    <topicref href="what_is_snagit.dita"/>
-    <topicref href="printing_your_screen.dita"/>
-    <topicref href="how_to_customize_your_toolbar.dita"/>
-</map>
